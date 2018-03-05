@@ -7,3 +7,7 @@ The repository contains my porftolio site. For your convenience directories with
 
 Download a zip file of the _Portfolio_ to your device and unzip it.
 Open _index_ file in your browser.
+
+### Additional notes
+
+The second project (AluPlex site) is still in progress, so some subsites haven't been created yet.
