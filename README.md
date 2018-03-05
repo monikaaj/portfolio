@@ -1,5 +1,5 @@
 # Portfolio
-## Portoflio site with projects
+## Portoflio site with my projects
 
 The repository contains my porftolio site. For your convenience directories with project has been added inside this repository.
 
