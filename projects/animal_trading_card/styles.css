@@ -1,0 +1,52 @@
+.container{
+  width: 300px;
+  margin-left:  auto;
+  margin-right: auto;
+  border: 2px solid #b5cdf4;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  box-shadow: 14px 16px 13px #97b0d8;
+  background-image: url("snow.jpg");
+}
+
+body{
+    color: #eff3f9;
+	font-family: Lucida Bright, Georgia, serif;
+}
+
+.picture{
+  display: block;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.picture:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.description{
+  width: 280px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #d2ddef;
+  color: black;
+}
+
+.interesting-fact{
+  font-style: italic;
+}
+
+.list-item{
+    font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
